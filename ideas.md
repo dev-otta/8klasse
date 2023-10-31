@@ -8,6 +8,8 @@
 - deltarune / undertale kopi
 - flappy bird
 - Matte spill
+-  Subway Surfers Klone
+- Super Mario Bro's 64 Klone
 
 ## Ide 2: Bestillingsløsning for pizzadagen
 
@@ -18,4 +20,5 @@
 - robotarena
 - robot battle
 - robot race
+- Få en bitbot til å kjøre til et bestemt sted
 
