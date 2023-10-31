@@ -17,4 +17,5 @@
 ## Ide 4: robotbil (bit bot / microbit)
 - robotarena
 - robot battle
+- robot race
 
