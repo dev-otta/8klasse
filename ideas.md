@@ -5,6 +5,7 @@
 - bopl battle klone
 - Sjakk type spill
 - -2D minecraft
+- deltarune / undertale kopi
 
 ## Ide 2: Bestillingsløsning for pizzadagen
 
