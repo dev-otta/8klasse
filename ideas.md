@@ -6,6 +6,7 @@
 - Sjakk type spill
 - -2D minecraft
 - deltarune / undertale kopi
+- flappy bird
 
 ## Ide 2: Bestillingsløsning for pizzadagen
 
