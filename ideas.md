@@ -11,6 +11,7 @@
 -  Subway Surfers Klone
 - Super Mario Bro's 64 Klone
 - friday night funkin
+- smash bros ultimate klone
 
 ## Ide 2: Bestillingsløsning for pizzadagen
 
