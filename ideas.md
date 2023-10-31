@@ -12,6 +12,7 @@
 - Super Mario Bro's 64 Klone
 - friday night funkin
 - smash bros ultimate klone
+- Terraria type spill
 
 ## Ide 2: Bestillingsløsning for pizzadagen
 
