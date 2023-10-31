@@ -4,6 +4,7 @@
 - kopi av eksisterende spill
 - bopl battle klone
 - Sjakk type spill
+- -2D minecraft
 
 ## Ide 2: Bestillingsløsning for pizzadagen
 
