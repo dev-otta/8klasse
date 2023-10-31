@@ -10,6 +10,7 @@
 - Matte spill
 -  Subway Surfers Klone
 - Super Mario Bro's 64 Klone
+- friday night funkin
 
 ## Ide 2: Bestillingsløsning for pizzadagen
 
